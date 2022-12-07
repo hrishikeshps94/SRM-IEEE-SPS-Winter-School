@@ -6,3 +6,5 @@ Day 2/runs/
 Day 2/best_cifar_model.pt
 Day 2/best_mnist_model.pt
 Day 2/last_cifar_model.pt
+Day 2/testset/
+Day 2/trainset/
