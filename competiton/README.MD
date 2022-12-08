@@ -16,5 +16,7 @@ Develop a CNN based classification model to classify a given snake image into a 
 
 **The Evaluation Metric is Accuracy**
 
+Dataset Download link is https://drive.google.com/file/d/1JCatkA7IZ_GK-CNsBwE6hLVrOJshjIMn/view?usp=share_link
+
 
 
