@@ -11,12 +11,12 @@ You have been hired as a Deep Learning engineer to create a sophisticated model 
 ### Objective:
 Develop a CNN based classification model to classify a given snake image into a class of snake species.
 
-- There will be 5000 train images and 250 validation images, 250 test images.
+- There will be 4423 train images and 1085 validation images
 - There are 35 snake species classes.
 
 **The Evaluation Metric is Accuracy**
 
-Dataset Download link is https://drive.google.com/file/d/1JCatkA7IZ_GK-CNsBwE6hLVrOJshjIMn/view?usp=share_link
+Dataset Download link is https://drive.google.com/file/d/1sjTrVHd_dU4nplWR6RxXBSYBd4_gYUoL/view?usp=share_link
 
 
 
