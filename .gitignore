@@ -1,27 +1,28 @@
-Day 1/testset/
-Day 1/trainset/
-Day3/lol_dataset/
-Day 2/runs/
-Day 2/best_cifar_model.pt
-Day 2/best_mnist_model.pt
-Day 2/last_cifar_model.pt
-Day 2/testset/
-Day 2/trainset/
-Day 2/flower_photos/
-Day 2/flower_photos.tgz
-Day 2/best_flower_model.pt
-Day 2/last_flower_model.pt
-Day 4/testset/
-Day 4/trainset/
-competiton/train/
-competiton/srm_test.csv
-competiton/SRM_DS
-competiton/SRM_DS.zip
-competiton/train.csv
-Day 4/assets/no_padding_no_strides_transposed.gif
-Day 4/assets/no_padding_strides_transposed.gif
-Day 4/assets/padding_strides_transposed.gif
-Day 4/assets/same_padding_no_strides_transposed.gif
-Day3/relight.pt
-Day3/test.py
-Day3/__pycache__/
+05_12_22/testset/MNIST/
+05_12_22/trainset/MNIST/
+07_12_22/flower_photos/train/
+07_12_22/flower_photos/validation/
+07_12_22/testset/
+07_12_22/trainset/
+08_12_22/lol_dataset/
+09_12_22/testset/
+09_12_22/trainset/
+10_12_22/competiton/SRM_DS/
+07_12_22/best_cifar_model.pt
+07_12_22/best_flower_model.pt
+07_12_22/best_mnist_model.pt
+07_12_22/last_cifar_model.pt
+07_12_22/last_flower_model.pt
+07_12_22/runs/
+08_12_22/__pycache__/
+10_12_22/competiton/SRM_DS.zip
+10_12_22/competiton/srm_test.csv
+10_12_22/competiton/train.csv
+10_12_22/competiton/image_load.ipynb
+07_12_22/flower_photos.tgz
+08_12_22/relight.pt
+08_12_22/test.py
+09_12_22/assets/no_padding_no_strides_transposed.gif
+09_12_22/assets/no_padding_strides_transposed.gif
+09_12_22/assets/padding_strides_transposed.gif
+09_12_22/assets/same_padding_no_strides_transposed.gif
